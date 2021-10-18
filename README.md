@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Psychopumpum/psychopumpum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Psychopumpum" alt="Psychopumpum" /> </p>
+
+<p align="left"> <a href="https://twitter.com/FadhilvanHalen" target="blank"><img src="https://img.shields.io/twitter/follow/FadhilvanHalen?logo=twitter&style=for-the-badge" alt="Psychopumpum" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psychopumpum&show_icons=true&locale=en" alt="itsmhehaku" /></p>
