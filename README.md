@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Psychopumpum" alt="Psychopumpum" /> </p>
+<p align="left"> <img src="https://psychopumpum.fun/profile.png" alt="Psychopumpum" /> </p>
 
 <p align="left"> <a href="https://twitter.com/FadhilvanHalen" target="blank"><img src="https://img.shields.io/twitter/follow/FadhilvanHalen?logo=twitter&style=for-the-badge" alt="Psychopumpum" /></a> </p>
 
